@@ -1,5 +1,5 @@
 # TMDB-5000-Movie-Analysis-Prediction
-# 🚀Onjective: 
+# 🚀Objective: 
 The objective of this project is to understand what variables define the success of films🎬, a successful movie being a movie with higher revenue and score. Let's unravel some intriguing findings from my analysis:
 
 # 🔍 Data Cleaning: 
